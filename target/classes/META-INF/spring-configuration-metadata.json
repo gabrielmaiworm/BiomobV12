@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "org.com.biomob.config.ApplicationProperties",
+      "sourceType": "org.com.biomob.config.ApplicationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
